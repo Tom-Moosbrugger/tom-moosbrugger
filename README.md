@@ -28,7 +28,7 @@ I thrive on building pristine applications and websites. When I'm not busy with 
 
 ## 📊 My stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tom-moosbrugger&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tom-moosbrugger&layout=donut-vertical&bg_color=000000&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 How to reach me:
 
