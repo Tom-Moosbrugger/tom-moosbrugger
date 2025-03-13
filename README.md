@@ -2,7 +2,9 @@
 
 I'm Tom Moosbrugger, a full-stack software engineer based in San Diego, CA 🌆
 
-I thrive on building pristine applications and websites. When I'm not busy with my next coding project, you can find me training for my next marathon, looking for the best dog beach, or cozying up with a good novel.
+I'm passionate about crafting elegant and efficient applications and websites. From designing high-performance APIs with Flask or Express to developing intuitive React interfaces, I prioritize scalable code and exceptional user experiences.
+
+When I'm not busy with a coding project, you can find me training for my next marathon, looking for the best dog beach, or cozying up with a good novel.
 
 ## 🛠️ Languages and Tools
 
