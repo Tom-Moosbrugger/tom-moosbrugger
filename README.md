@@ -12,7 +12,7 @@ I'm passionate about crafting elegant and efficient applications and websites. W
 
 When I'm not busy with a coding project, you can find me training for my next marathon, looking for the best dog beach, or cozying up with a good novel.
 
-## 🛠️ Languages and Tools
+## 🛠️ Languages and Tools:
 
 **Languages:**
 
@@ -33,6 +33,7 @@ When I'm not busy with a coding project, you can find me training for my next ma
 **Hosting:**
 
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
 
 ## 📊 My stats:
 
