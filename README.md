@@ -6,7 +6,7 @@
 
 <h1 align="center">🌎🌍🌏 Hello World! 🌎🌍🌏</h1>
 
-I'm Tom Moosbrugger, a full-stack software engineer based in San Diego, CA 🌆
+I'm Tom Moosbrugger, a full-stack software engineer based in the bay area 🌆
 
 I'm passionate about crafting elegant applications and websites. Whether I'm designing high-performance APIs with Flask or Express or developing intuitive React interfaces, I prioritize scalable code and exceptional user experiences.
 
