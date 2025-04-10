@@ -4,9 +4,9 @@
 
 <br>
 
-*"'Repository,' he finally says, 'you know this word? A resting place...a resting place for the memories of people who have lived before. A way for the memory to stay fixed after the soul has traveled on.”
+*"'Repository,' he finally says, 'you know this word? A resting place...a resting place for the memories of people who have lived before. A way for the memory to stay fixed after the soul has traveled on.”*
 
-- Anthony Doerr, Cloud Cuckoo Land*
+*Anthony Doerr, Cloud Cuckoo Land*
 
 <h1 align="center">🌎🌍🌏 Hello World! 🌎🌍🌏</h1>
 
