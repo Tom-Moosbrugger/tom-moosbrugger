@@ -38,11 +38,6 @@ When I'm not busy with a coding project, you can find me training for my next ma
 
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-
-## 📊 My stats:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tom-moosbrugger&layout=compact&bg_color=000000&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 📫 How to reach me:
 
 **Email**: tamoosbrugger@gmail.com<br>
